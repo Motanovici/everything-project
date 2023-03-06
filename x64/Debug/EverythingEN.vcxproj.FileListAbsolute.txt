@@ -1,0 +1,16 @@
+C:\synthios\voxel_world\works\x64\Debug\everything_sdk.example.csharpx64.Form1.resources
+C:\synthios\voxel_world\works\x64\Debug\everything_sdk.example.csharpx64.properties.Resources.resources
+C:\synthios\voxel_world\works\x64\Debug\everything_sdk.example.csharp.Form1.resources
+C:\synthios\voxel_world\works\x64\Debug\everything_sdk.example.csharp.properties.Resources.resources
+C:\synthios\voxel_world\works\x64\Debug\everything_sdk.example.visual_basic.windowsapplication1.windowsapplication1.Form1.resources
+C:\synthios\voxel_world\works\x64\Debug\everything_sdk.example.visual_basic.windowsapplication1.windowsapplication1.my_project.Resources.resources
+C:\synthios\voxel_world\works\x64\Debug\EverythingEN.vcxproj.GenerateResource.cache
+C:\synthios\voxel_world\works\x64\Debug\EverythingEN.exe
+C:\synthios\voxel_world\everything-project\x64\Debug\everything_sdk.example.csharpx64.Form1.resources
+C:\synthios\voxel_world\everything-project\x64\Debug\everything_sdk.example.csharpx64.properties.Resources.resources
+C:\synthios\voxel_world\everything-project\x64\Debug\everything_sdk.example.csharp.Form1.resources
+C:\synthios\voxel_world\everything-project\x64\Debug\everything_sdk.example.csharp.properties.Resources.resources
+C:\synthios\voxel_world\everything-project\x64\Debug\everything_sdk.example.visual_basic.windowsapplication1.windowsapplication1.Form1.resources
+C:\synthios\voxel_world\everything-project\x64\Debug\everything_sdk.example.visual_basic.windowsapplication1.windowsapplication1.my_project.Resources.resources
+C:\synthios\voxel_world\everything-project\x64\Debug\EverythingEN.vcxproj.GenerateResource.cache
+C:\synthios\voxel_world\everything-project\x64\Debug\EverythingEN.exe
